@@ -1,2 +1,2 @@
 # Computer-Team
-A repo to dump code from SCT competitions
+A repo to dump code from SCT and related competitions
