@@ -29,7 +29,6 @@ int findEgg (int N, vector < pair < int, int > > bridges)
 	dfs(1, 0);
  
 	//2^9=512
-	//bin search on search vector for ans
 	int lo = 0, hi = N-1;
 	while (lo != hi) {
 		int mid = (lo+hi+1)/2;
